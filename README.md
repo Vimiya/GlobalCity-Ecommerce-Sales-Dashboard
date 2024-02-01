@@ -12,4 +12,4 @@ _**Uses of creating following dashboard:**_
 * This dashboard allows Sales Manager to gain actionable insights into how much money business is making, how many orders received, who their customers are, which products are selling good, and which way their sales are heading.
 * Sales team can track company's overall and regional sales performance and see if the marketing efforts are paying off and thus make their online store even better.
 
-![Dashboard image](https://github.com/Vimiya/GlobalCity-Ecommerce-Sales-Dashboard/assets/95517635/7042d070-6b19-4daa-9824-9ce5949c325b)
+![Dashboard image](https://github.com/Vimiya/GlobalCity-Ecommerce-Sales-Dashboard/assets/95517635/2fc1ee8a-286e-4184-ab54-445322f2235b)
